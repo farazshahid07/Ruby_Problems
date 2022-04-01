@@ -6,8 +6,6 @@ $player_total = 0
 $dealer_total = 0
 $p_hand = []
 $d_hand = []
-# $bool_ace = true
-# $i = 0
 bool = true
 
 class BlackJack
